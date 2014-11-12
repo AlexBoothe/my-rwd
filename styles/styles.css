@@ -1,0 +1,37 @@
+/**
+*==================================================
+* styles.css -- Global Styles for MyRWD website
+*==================================================
+*
+Created November 12, 2014
+*
+*Authored by Alex Boothe
+*
+*/
+
+/* ----- Basic Styling ----- */
+
+body {
+  background-color: lightblue;
+}
+
+#page-wrapper {
+  background-color: white;
+  width:768px;
+  margin:auto;
+}
+
+#content {
+  background-color: #f7f2da;
+  padding: 0, 1em;
+  margin-bottom: 0,0,10px,0;
+}
+nav {
+  background-color: gray;
+  margins: 0;
+  padding: 0;
+}
+nav ul {
+  padding: 3px 10px;
+  list-style-type: none;
+}
